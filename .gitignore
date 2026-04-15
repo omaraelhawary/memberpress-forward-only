@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Dependencies
+/vendor/
+node_modules/
+composer.phar
+
+# Logs
+*.log
+
+# PHPUnit
+.phpunit.result.cache
