@@ -1,0 +1,52 @@
+/**
+ * MemberPress Forward-Only — admin settings layout.
+ */
+
+.mepr-forward-only-wrap {
+	max-width: 960px;
+}
+
+.mepr-forward-only-wrap > .description {
+	font-size: 14px;
+	margin: 0.5em 0 1.25em;
+}
+
+.mepr-forward-only-grid {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	margin-top: 8px;
+}
+
+.mepr-forward-only-card {
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	padding: 16px 20px 20px;
+}
+
+.mepr-forward-only-card h2 {
+	margin: 0 0 8px;
+	font-size: 1.15em;
+	padding: 0;
+}
+
+.mepr-forward-only-card .description {
+	margin-top: 0;
+}
+
+.mepr-forward-only-card--help .mepr-forward-only-code {
+	background: #f6f7f7;
+	border: 1px solid #dcdcde;
+	border-radius: 4px;
+	padding: 12px 14px;
+	overflow: auto;
+	margin: 8px 0 0;
+	font-size: 13px;
+	line-height: 1.5;
+}
+
+.mepr-forward-only-form .submit {
+	margin-top: 8px;
+}
