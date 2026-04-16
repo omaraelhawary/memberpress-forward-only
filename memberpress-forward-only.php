@@ -3,7 +3,9 @@
  * Plugin Name: MemberPress Forward-Only Access
  * Description: Restricts members from viewing content published before their signup date. Includes a [mepr_forward_link] shortcode and settings under MemberPress.
  * Version:     1.1.0
- * Author:      Caseproof Support
+ * Author:      Omar ElHawray
+ * Author URI:  https://www.omarelhawray.com
+ * GitHub URI:  https://github.com/omarelhawray/memberpress-forward-only
  * License:     GPL-2.0-or-later
  * Text Domain: memberpress-forward-only
  * Requires Plugins: memberpress
